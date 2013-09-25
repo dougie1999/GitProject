@@ -1,1 +1,4 @@
-this is the 4th file
+this is the 4th fil
+updating the fourth file.
+
+This will be commited directly and will not need to go through the Unstaged = Staged - Commited process. In other worrs we will not have to use git add to stage the filee
